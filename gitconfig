@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juliencoffignot@hotmail.fr
+	name = Julien COFFIGNOT
